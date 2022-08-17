@@ -1,0 +1,1 @@
+Essa pasta é exclusiva dos arquivos do curso introdutório de GITHUB.
